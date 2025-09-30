@@ -6,7 +6,7 @@ En primer lugar, la IA ha facilitado la **personalización educativa**. Mediante
 
 Además, la IA ofrece **acceso inmediato al conocimiento** a través de asistentes virtuales, traductores automáticos y plataformas interactivas, como pueden ser [Chatgpt](https://chatgpt.com/) o [Gémini](https://gemini.google.com/?hl=es-ES). Esta disponibilidad de información en tiempo real fomenta la autonomía y la capacidad de autoaprendizaje, competencias clave en la sociedad actual. Sin embargo, también plantea el desafío de aprender a discriminar entre información confiable y desinformación.
 
-En el campo profesional, las [herramientas](Datos.txt) de IA facilitan el **aprendizaje práctico** mediante simulaciones, realidad aumentada y análisis predictivo. Estas tecnologías permiten que los usuarios experimenten en entornos controlados y seguros, acelerando la adquisición de habilidades técnicas y blandas.
+En el campo profesional, las [herramientas](Datos.txt) de IA facilitan el **aprendizaje práctico** mediante simulaciones, realidad aumentada y análisis predictivo, hasta pueden crear [imagenes](https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/expertos-aportan-claves-para-detectar-imagenes-creadas-con-ia-7526/expertos-aportan-claves-para-detectar-imagenes-creadas-con-ia-7526html-mono-astronauta-okjpg-5826html-8e26c2c7-4254-49ec-b425-e8fda010364d.jpgljnimgndimage=fullsize) que tu le pidas. Estas tecnologías permiten que los usuarios experimenten en entornos controlados y seguros, acelerando la adquisición de habilidades técnicas y blandas.
 
 No obstante, la influencia de la IA en el aprendizaje humano no está exenta de riesgos. La **dependencia excesiva** de estas herramientas puede limitar habilidades esenciales que caracterizan el pensamiento humano, como son:
 - la capacidad crítica 
@@ -16,3 +16,5 @@ No obstante, la influencia de la IA en el aprendizaje humano no está exenta de 
  Asimismo, la brecha digital amenaza con generar desigualdades en el acceso a estos beneficios.
 
 En conclusión, la IA representa un aliado poderoso en la evolución del aprendizaje, siempre que se utilice de manera equilibrada. Su papel debe orientarse a complementar y potenciar las capacidades humanas, no a sustituirlas, de modo que el conocimiento adquirido mantenga su profundidad, sentido crítico y valor social.
+
+![fin](https://previews.123rf.com/images/catocala7/catocala72307/catocala7230700274/209717176-gorilla-thumbs-up-everything-is-fine-everything-is-ok-everything-is-correct-i-agree-ok-on-a.jpg)
