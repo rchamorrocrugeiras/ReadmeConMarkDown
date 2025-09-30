@@ -8,6 +8,11 @@ Además, la IA ofrece **acceso inmediato al conocimiento** a través de asistent
 
 En el campo profesional, las [herramientas](Datos.txt) de IA facilitan el **aprendizaje práctico** mediante simulaciones, realidad aumentada y análisis predictivo. Estas tecnologías permiten que los usuarios experimenten en entornos controlados y seguros, acelerando la adquisición de habilidades técnicas y blandas.
 
-No obstante, la influencia de la IA en el aprendizaje humano no está exenta de riesgos. La **dependencia excesiva** de estas herramientas puede limitar la capacidad crítica, la creatividad y la memoria, habilidades esenciales que caracterizan el pensamiento humano. Asimismo, la brecha digital amenaza con generar desigualdades en el acceso a estos beneficios.
+No obstante, la influencia de la IA en el aprendizaje humano no está exenta de riesgos. La **dependencia excesiva** de estas herramientas puede limitar habilidades esenciales que caracterizan el pensamiento humano, como son:
+- la capacidad crítica 
+* la creatividad 
++ la memoria 
+
+ Asimismo, la brecha digital amenaza con generar desigualdades en el acceso a estos beneficios.
 
 En conclusión, la IA representa un aliado poderoso en la evolución del aprendizaje, siempre que se utilice de manera equilibrada. Su papel debe orientarse a complementar y potenciar las capacidades humanas, no a sustituirlas, de modo que el conocimiento adquirido mantenga su profundidad, sentido crítico y valor social.
