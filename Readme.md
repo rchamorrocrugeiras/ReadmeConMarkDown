@@ -21,9 +21,9 @@ Asimismo, la brecha digital amenaza con generar desigualdades en el acceso a est
 
 En conclusión, la IA representa un aliado poderoso en la evolución del aprendizaje, siempre que se utilice de manera equilibrada. Su papel debe orientarse a complementar y potenciar las capacidades humanas, no a sustituirlas, de modo que el conocimiento adquirido mantenga su profundidad, sentido crítico y valor social.
 
-| | Más usada? | Más útil?
-| Chatgpt | :white_check_mark: | :x:
-| Gemini | :x: | :white_check_mark:
+| | Más usada? | Más útil? |
+| Chatgpt | :white_check_mark: | :x: |
+| Gemini | :x: | :white_check_mark: |
 
 
 ![fin](https://previews.123rf.com/images/catocala7/catocala72307/catocala7230700274/209717176-gorilla-thumbs-up-everything-is-fine-everything-is-ok-everything-is-correct-i-agree-ok-on-a.jpg)
