@@ -1,4 +1,9 @@
+Algunas de las herramientas de las IAs son:
+
 - Procesamiento multimodal en tiempo real (texto, imágenes, voz).
+
 - Respuestas más rápidas y contextualmente ricas.
+
 - Alta precisión en generación de código, resúmenes y redacción creativa.
+
 - Interfaz conversacional mejorada para tareas profesionales.
