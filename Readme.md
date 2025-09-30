@@ -1,6 +1,6 @@
 # La influencia de las _IAs_ en el aprendizaje humano
 
-La irrupción de la inteligencia artificial (IA) está transformando de manera profunda los procesos de aprendizaje humano. Su influencia no solo se percibe en el ámbito académico, sino también en la formación profesional, la educación continua y el aprendizaje informal de la vida cotidiana.
+La irrupción de la ***<ins>inteligencia artificial (IA)</ins>*** está transformando de manera profunda los procesos de aprendizaje humano. Su influencia no solo se percibe en el ámbito académico, sino también en la formación profesional, la educación continua y el aprendizaje informal de la vida cotidiana.
 
 En primer lugar, la IA ha facilitado la **personalización educativa**. Mediante algoritmos capaces de analizar el ritmo, las fortalezas y las debilidades de cada estudiante, es posible diseñar rutas de aprendizaje adaptadas a sus necesidades. Esto contribuye a mejorar la motivación, reducir la frustración y optimizar el tiempo de estudio.
 
